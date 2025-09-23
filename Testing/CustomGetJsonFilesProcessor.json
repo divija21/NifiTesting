@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1758647005862,
+    "description" : "using the custom processor name getjson files and stroing into the Testing bucket",
+    "identifier" : "CustomGetJsonFilesProcessor",
+    "lastModifiedTimestamp" : 1758647005862,
+    "name" : "CustomGetJsonFilesProcessor",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
