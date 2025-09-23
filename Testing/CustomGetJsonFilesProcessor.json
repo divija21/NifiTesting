@@ -114,7 +114,7 @@
       "type" : "com.example.nifi.processors.getjsonfiles.mycustom.GetJsonFiles",
       "yieldDuration" : "1 sec"
     }, {
-      "autoTerminatedRelationships" : [ ],
+      "autoTerminatedRelationships" : [ "success" ],
       "backoffMechanism" : "PENALIZE_FLOWFILE",
       "bulletinLevel" : "WARN",
       "bundle" : {
