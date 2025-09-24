@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1758690370458,
+    "description" : "I am using the custom processor that is reading the json files from the local directory",
+    "identifier" : "CustomProcessor",
+    "lastModifiedTimestamp" : 1758690370458,
+    "name" : "CustomProcessor",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
